@@ -6,7 +6,7 @@
 /*   By: bsalgado <bsalgado@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/04 16:14:16 by bsalgado          #+#    #+#             */
-/*   Updated: 2023/05/22 14:43:08 by bsalgado         ###   ########.fr       */
+/*   Updated: 2023/10/11 19:41:02 by bsalgado         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -184,7 +184,7 @@ static int	ft_count_words(const char *s, char c)
 			words++;
 			while (s[i] != '\0' && s[i] != c)
 				i++;
-		}	
+		}
 		else
 			i++;
 	}
