@@ -1,5 +1,5 @@
 # ft_printf
 
-FT_PRINTF
+ft_printf
 
 125/100
